@@ -4,11 +4,17 @@
 
 /* Components(부품) */
 @import "components/status-bar.css";
+@import "components/nav-bar.css";
+@import "components/screen-header.css";
+@import "components/user-component";
 
 /* Screens(화면) */
 @import "screens/login.css";
+@import "screens/friends.css";
 
 
 body {
     font-family: 'Open Sans', sans-serif;
+    color:#2e363e;
 }
+

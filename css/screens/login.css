@@ -1,5 +1,8 @@
 
 .welcome-header {
+    position: fixed;
+    bottom: 50%;
+    width: 100%;
     margin: 90px 0px;
     text-align: center;
     display: flex;
@@ -20,9 +23,14 @@
 }
 
 #login-form {
+    position: fixed;
+    bottom: 0;
+    padding: 20px 50px;
+    width: 100%;
+    box-sizing: border-box;
     display: flex;
     flex-direction: column;
-    margin: 0px 30px;
+
 }
 
 #login-form input {
