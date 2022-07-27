@@ -55,3 +55,14 @@ input:focus {
 	color:#2e363e;
 	text-decoration: none;
 }
+
+.main__link {
+	color:#2e363e;
+	text-decoration: none;
+	position: relative;
+}
+
+a {
+	color:#2e363e;
+	text-decoration: none;
+}
