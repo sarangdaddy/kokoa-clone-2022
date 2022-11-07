@@ -1,3 +1,4 @@
-# Kokoa Clone 2022 Update
+# Kokoa Clone 2022
 
-HTML and CSS are so much fun!
+Nomad Coders - HTML & CSS class.
+My first class.
